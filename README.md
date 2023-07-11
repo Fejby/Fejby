@@ -4,4 +4,4 @@
 - 🐐 Jsem Kozel
 - 🔭 Momentálně pracuji na https://basicblock.cz/ a https://mcnavody.eu/
 - 🌱 V současné době se učím Javu, HTML, CSS, JavaScript a další
-- 📫 Kontaktovat mě můžeš přes Discord Fejby#1520
+- 📫 Kontaktovat mě můžeš přes Discord (Fejby)
